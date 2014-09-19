@@ -1,11 +1,12 @@
 public class DrawFigures1 {
-       
+    /* up arrow */   
    public static void first() {
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
         System.out.println();
         }
+        /*down arrow*/
    public static void second() {
         System.out.println(" \\    /");
         System.out.println("  \\  /");
